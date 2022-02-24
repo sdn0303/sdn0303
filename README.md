@@ -15,7 +15,7 @@ func sdn0303() *Me {
 		Job:      "Software Developer",
 		Email:    "sdn03.tech@gmail.com",
 		Learning: []string{"Rust", "C#"},
-		Interest: []string{"IoT", "MR", "wasm", "ML"},
+		Interest: []string{"IoT", "MR", "wasm", "Blockchain", "ML"},
 	}
 }
 ```
